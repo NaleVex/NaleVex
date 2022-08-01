@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @NaleVex, 28yo, Russia
-- 👀 I’m interested in making some useful things like bots for discord, telegram and games
-- 🌱 I’m currently learning Python and GoDot script, not very good tho for this time.
-- 💞️ I’m looking to collaborate on game projects in GoDot
+- 👋 Hi, I’m @NaleVex, 28yo, Russia.
+- 👀 I’m interested in making some useful things like bots for discord, telegram and games.
+- 🌱 I’m currently learning Python, using it for automation routine stuff at work. Learning about AI as well, just started.
+- 💞️ I’m looking to collaborate on game projects (little home hobby): UE5 or GoDot.
 - 📫 Idk why but you can find me in discord: FunApple#6412
 
 <!---

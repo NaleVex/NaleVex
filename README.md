@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NaleVex, 29yo, Russia ☮.
+- 👋 Hi, I’m @NaleVex, 29yo.
 - 👀 I’m interested in making some useful things like bots for discord, telegram and games.
 - 🌱 I’m currently learning Python, using it for automation routine stuff at work. Learning about AI as well, just started.
 - 💞️ I’m looking to collaborate on game projects (little home hobby): UE5 or GoDot.

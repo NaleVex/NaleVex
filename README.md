@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Eugene, 29yo.
+- 👋 Hi, I’m Eugene, 30yo.
 - 👀 Interested in making some useful things like bots for discord, telegram, games and different open source software.
 - 🌱 Currently learning Flutter and Golang. Working on some projects in Godot. Used to Python using it for automation routine stuff at work. Also peek at different languages and technologies, love to learn new stuff.
 - 💞️ Looking to collaborate on game projects (little home hobby): GoDot or UE5.

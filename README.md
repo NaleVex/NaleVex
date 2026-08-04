@@ -1,7 +1,11 @@
 Hi, I’m Eugene, 32yo.
+
 Jack of all trades with priorities for game dev. I like Godot, maybe, someday, I will fully complete at least one project.
+
 Sometimes making useful things for my own tasks.
-I use private repos playing with my projects
+
+I use private repos playing with my projects.
+
 Idk why but you can find me in discord: @funapple
 
 <!---
